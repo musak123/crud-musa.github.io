@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Aman Kamara",
+      "class": "13PUY",
+      "address": "23 Abacha ",
+      "email": "amankamar@gmail.com",
+      "city": "Dubai",
+      "admission": "905001267",
+      "fees": "400000",
+      "country": "Liberia"
+    },
+    {
+      "id": 3,
+      "name": "Ansh Jones",
+      "class": "32LPD",
+      "address": "24 Willison R",
+      "email": "ansh@gmail.com",
+      "city": "Accra",
+      "admission": "905001295",
+      "fees": "500000",
+      "country": "Ghana"
+    },
+    {
+      "id": 4,
+      "name": "Amara Turay",
+      "class": "15GHC",
+      "address": "33 Hillstation",
+      "email": "Arava@gmail.com",
+      "city": "Freetown",
+      "admission": "905001367",
+      "fees": "700000",
+      "country": "Sierra Leone"
+    },
+    {
+      "id": 5,
+      "name": "John Davies",
+      "class": "MCA",
+      "address": "New London",
+      "email": "johndavies@gmail.com",
+      "city": "Makeni",
+      "admission": "905001278",
+      "fees": "500000",
+      "country": "Sierra Leone"
+    },
+    {
+      "id": 6,
+      "name": "Ansuman Kamara",
+      "class": "9UMK",
+      "address": "Kissy Road",
+      "email": "ansumankabba0@gmail.com",
+      "city": "Kabala",
+      "admission": "905001278",
+      "fees": "500000",
+      "country": "Liberia"
+    },
+    {
+      "id": 7,
+      "name": "Musa Kamara",
+      "class": "8YTR",
+      "address": "Mansaray Drive ,",
+      "email": "musakamar144@gmail.com",
+      "city": "Conakry",
+      "admission": "905001278",
+      "fees": "500000",
+      "country": "Guinea"
+    },
+    {
+      "id": 8,
+      "name": "Alhaji Kamara",
+      "class": "3BTY",
+      "address": "Lunsar Road",
+      "email": "alhajikamar134@gmail.com",
+      "city": "Makeni",
+      "admission": "905001278",
+      "fees": "500000",
+      "country": "Sierra Leone"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
